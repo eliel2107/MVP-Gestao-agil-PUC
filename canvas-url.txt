@@ -1,0 +1,10 @@
+https://miro.com/app/board/COLE-AQUI-O-ID-DO-SEU-BOARD/
+
+# ----------------------------------------------------------------------
+# Substitua a linha acima pela URL PÚBLICA do seu board do Miro,
+# contendo todas as etapas da Lean Inception e o MVP Canvas.
+#
+# Antes de entregar:
+#   1. No Miro, deixe o board com acesso público ("Anyone with the link").
+#   2. Teste a URL em uma aba anônima do navegador.
+# ----------------------------------------------------------------------

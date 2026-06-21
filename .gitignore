@@ -1,0 +1,12 @@
+# Fontes de geração — os entregáveis finais são os PDFs e PNGs já versionados.
+# Mantidos apenas localmente (para regerar/ajustar), fora do repositório público.
+**/_src/
+docs/*.html
+jira/*.html
+jira/gen_*.py
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
