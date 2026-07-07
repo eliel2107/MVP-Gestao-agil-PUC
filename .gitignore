@@ -4,6 +4,8 @@
 docs/*.html
 jira/*.html
 jira/gen_*.py
+jira/_*.css
+docs/visuals/board-map-layout.png
 
 # Sistema operacional
 .DS_Store
