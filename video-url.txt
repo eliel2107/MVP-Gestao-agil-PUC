@@ -1,9 +1,2 @@
-COLE-AQUI-A-URL-DO-VIDEO
-
-# ----------------------------------------------------------------------
-# URL do vídeo de apresentação (2 a 4 minutos) — ex.: YouTube (não listado),
-# Google Drive (link público) ou Loom.
-#
-# Alternativa: em vez do link, você pode colocar o arquivo de mídia (.mp4)
-# diretamente na raiz do repositório.
-# ----------------------------------------------------------------------
+EstoqueZap — Vídeo de apresentação · YouTube
+https://youtu.be/m-4UKDwNzjY

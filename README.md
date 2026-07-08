@@ -32,7 +32,7 @@ O **EstoqueZap** é um aplicativo móvel de gestão de estoque e vendas para **p
 | 2 | **Backlog do Produto** + DoR/DoD (com RNF) | Jira | 📄 [`product-backlog.pdf`](product-backlog.pdf) |
 | 3 | **Backlog da Sprint 1** (detalhado, estimado) | Jira | 📄 [`sprint-backlog.pdf`](sprint-backlog.pdf) |
 | 4 | **Wireframes** (protótipos de interface) | Figma | 🎨 [Figma](https://www.figma.com/design/vetyJN3ubc2MGYIrUh6U8a/EstoqueZap-%E2%80%94-Wireframes-Sprint-1) · 🖼️ [`wireframes/`](wireframes/) |
-| 5 | **Vídeo de apresentação** (~5 min) | — | 🎬 [`video-url.txt`](video-url.txt) |
+| 5 | **Vídeo de apresentação** | YouTube | 🎬 [Assistir no YouTube](https://youtu.be/m-4UKDwNzjY) |
 
 > 🟢 **Backlog implementado e vivo no Jira Cloud** — projeto *Minha equipe MVP* (`SCRUM`): **25 tickets** (3 épicos · 19 histórias · 3 enablers) com hierarquia épico→história, *story points*, prioridades, critérios de aceitação (Gherkin) e **Sprint 1 ativa**. Os PDFs acima são os **prints reais** desse backlog.
 
@@ -44,7 +44,7 @@ O **EstoqueZap** é um aplicativo móvel de gestão de estoque e vendas para **p
 |---------|-----------|--------|
 | **Board — Lean Inception + MVP Canvas** | Miro | 🔗 [Abrir no Miro](https://miro.com/app/board/uXjVH9vmgww=/?share_link_id=84683639477) |
 | **Protótipo de wireframes** | Figma | 🎨 [Abrir no Figma](https://www.figma.com/design/vetyJN3ubc2MGYIrUh6U8a/EstoqueZap-%E2%80%94-Wireframes-Sprint-1) |
-| **Vídeo de apresentação** | YouTube | 🎬 URL em [`video-url.txt`](video-url.txt) |
+| **Vídeo de apresentação** | YouTube | 🎬 [Assistir no YouTube](https://youtu.be/m-4UKDwNzjY) |
 
 ---
 
