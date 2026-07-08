@@ -1,13 +1,9 @@
-# Fontes de geração — os entregáveis finais são os PDFs e PNGs já versionados.
-# Mantidos apenas localmente (para regerar/ajustar), fora do repositório público.
+# arquivos de trabalho (locais)
+docs/
+jira/
 **/_src/
-docs/*.html
-jira/*.html
-jira/gen_*.py
-jira/_*.css
-docs/visuals/board-map-layout.png
 
-# Sistema operacional
+# SO
 .DS_Store
 Thumbs.db
 desktop.ini
